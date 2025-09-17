@@ -1,6 +1,6 @@
 [package]
 name = "mongo-checker"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "CLI tool for searching duplicate values in a MongoDB collection by a chosen field."
 keywords = [
