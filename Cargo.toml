@@ -1,0 +1,15 @@
+[package]
+name = "mongo-checker"
+version = "0.1.0"
+edition = "2021"
+description = "CLI tool for searching duplicate values in a MongoDB collection by a chosen field."
+keywords = [
+    "mongodb",
+    "cli",
+    "checker",
+    "duplicates",
+    "duplicate-finder"
+]
+license = "MIT"
+repository = "https://github.com/AndrewShedov/mongo-checker"
+homepage = "https://shedov.top"
